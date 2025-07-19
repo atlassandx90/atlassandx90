@@ -20,13 +20,22 @@
 ### 💼 Tools & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sql,aws,azure,excel,vscode,github" />
+  <!-- Core Languages -->
+  <img src="https://skillicons.dev/icons?i=python,sql" />
 </p>
 
 <p align="center">
+  <!-- Cloud & DevOps -->
+  <img src="https://skillicons.dev/icons?i=aws,azure,github,git,vscode," />
+</p>
+
+<p align="center">
+  <!-- BI & Data Tools -->
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/MS%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
   <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Colab-faac02?style=for-the-badge&logo=googlecolab&logoColor=white" />
 </p>
 
 ---
@@ -66,16 +75,20 @@
 
 ---
 
-### 📊 My Kaggle Profile
+### 📊 My Kaggle & HackerRank Profile
 
 <p align="center">
   <a href="https://www.kaggle.com/pikachu9999" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge"/>
   </a>
+  <a href="https://hackerrank.com/aroy96996" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Badge" />
+  </a>
 </p>
 
 <p align="center">
   🏆 I participate in Kaggle competitions, work on datasets, and share notebooks to grow my data science skills.
+     And I also solve problems in Python, SQL, and Algorithms to sharpen my coding and data skills in HackerRank.
 </p>
 
 ---
