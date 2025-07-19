@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhijeet Roy</h1>
 <h3 align="center"> Data Analyst | Tech Enthusiast 📊</h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Data+Analyst+%7C+Aspiring+Data+Scientist;Turning+Data+into+Insights;Automating+Insights+with+Python+%26+SQL;Exploring+Machine+Learning+%7C+Cloud+Tech" alt="Typing SVG" />
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="500" />
 </p>
 
 ---
