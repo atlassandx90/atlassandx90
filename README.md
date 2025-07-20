@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhijeet Roy</h1>
 <h3 align="center"> Data Analyst | Tech Enthusiast 📊</h3>
 <p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="500" />
+  <img src="https://cdn.prod.website-files.com/667460ccc43a88651a3236c3/66cd00773b43b2e53bfc4549_60d35967a853a1b14851703b_All%2520the%2520data%2520(1).gif" />
 </p>
 
 ---
@@ -95,4 +95,9 @@
 ### 🧠 Fun Fact
 
 > “In God we trust, all others must bring data.” – W. Edwards Deming
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=atlassandx90&color=03a379&style=plastic" alt="Profile views" />
+</p>
 
