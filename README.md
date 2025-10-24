@@ -1,22 +1,22 @@
-<h1 align="center">Hi 👋, I'm Abhijeet Roy</h1>
-<h3 align="center"> Data Analyst | Tech Enthusiast 📊</h3>
+<h1 align="center">Hi , I'm Abhijeet Roy</h1>
+<h3 align="center"> Data Analyst | Tech Enthusiast </h3>
 <p align="center">
   <img src="https://cdn.prod.website-files.com/667460ccc43a88651a3236c3/66cd00773b43b2e53bfc4549_60d35967a853a1b14851703b_All%2520the%2520data%2520(1).gif" />
 </p>
 
 ---
 
-- 📌 **Current Role**: Data Analyst  
-- 🎯 **Goal**: Become a **Data Scientist**
-- 🌱 **Currently Learning**: Advanced ML, Azure & Big Data Tools
-- 💬 **Ask me about**: Data Cleaning, Dashboards, SQL Queries, Python Scripts
-- 🧠 **Tech I work with**: Python, SQL, Excel, Power BI, Tableau, ML
-- 🚀 **Cloud**: AWS & Azure
-- 📈 **BI Tools**: Power BI, Tableau, Google Sheets
+-  **Current Role**: Data Analyst  
+-  **Goal**: Become a **Data Scientist**
+-  **Currently Learning**: Advanced ML, Azure & Big Data Tools
+-  **Ask me about**: Data Cleaning, Dashboards, SQL Queries, Python Scripts
+-  **Tech I work with**: Python, SQL, Excel, Power BI, Tableau, ML
+-  **Cloud**: AWS & Azure
+-  **BI Tools**: Power BI, Tableau, Google Sheets
 
 ---
 
-### 💼 Tools & Technologies
+###  Tools & Technologies
 
 <p align="center">
   <!-- Core Languages -->
@@ -39,13 +39,13 @@
 
 ---
 
-### 📊 GitHub Analytics
+###  GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=atlassandx90&show_icons=true&theme=tokyonight" />
   <br/>
 
- ### 🔥 GitHub Streak
+ ###  GitHub Streak
 
  <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=atlassandx90&theme=tokyonight" />
@@ -53,7 +53,7 @@
 
 ---
 
-### 🏆 GitHub Trophies
+###  GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=atlassandx90&theme=tokyonight&margin-w=10&no-frame=true" />
@@ -61,7 +61,7 @@
 
 ---
 
-### 🤝 Connect with Me
+###  Connect with Me
 
 <p align="center">
   <a href="https://linkedin.com/in/abhijeetroy9" target="_blank">
@@ -74,7 +74,7 @@
 
 ---
 
-### 📊 My Kaggle & HackerRank Profile
+###  My Kaggle & HackerRank Profile
 
 <p align="center">
   <a href="https://www.kaggle.com/pikachu9999" target="_blank">
@@ -86,13 +86,13 @@
 </p>
 
 <p align="center">
-  🏆 I participate in Kaggle competitions, work on datasets, and share notebooks to grow my data science skills.
+   I participate in Kaggle competitions, work on datasets, and share notebooks to grow my data science skills.
      And I also solve problems in Python, SQL, and Algorithms to sharpen my coding and data skills in HackerRank.
 </p>
 
 ---
 
-### 🧠 Fun Fact
+###  Fun Fact
 
 > “In God we trust, all others must bring data.” – W. Edwards Deming
 
