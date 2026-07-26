@@ -64,7 +64,7 @@
 
 ### 🛒 Walmart Sales Analysis
 
-<img src="assets/images/projects/walmart-sales.png">
+<img src="https://raw.githubusercontent.com/atlassandx90/portfolio/main/assets/images/projects/walmart-dashboard.png" width="100%">
 
 ✔ Python
 
@@ -83,6 +83,8 @@ Retail Sales Analytics Dashboard
 <td width="50%">
 
 ### 🛍 Ecommerce Analytics
+
+<img src="https://raw.githubusercontent.com/atlassandx90/portfolio/main/assets/images/projects/ecommerce-dashboard.png" width="100%">
 
 ✔ Python
 
@@ -104,6 +106,8 @@ Customer Segmentation & KPI Dashboard
 
 ### 💳 Credit Card Analytics
 
+<img src="https://raw.githubusercontent.com/atlassandx90/portfolio/main/assets/images/projects/credit-card-dashboard.png">
+
 ✔ Python
 
 ✔ SQL
@@ -112,13 +116,15 @@ Customer Segmentation & KPI Dashboard
 
 Customer Behaviour Analysis
 
-<a href="https://github.com/atlassandx90/Credit-Card-Customer-Analytics">Live Demo →</a>
+<a href="https://github.com/atlassandx90/E-Commerce-Customer-Sales-Insights">Live Demo →</a>
 
 </td>
 
 <td width="50%">
 
 ### 🌐 Portfolio Website
+
+<img src="https://raw.githubusercontent.com/atlassandx90/portfolio/main/assets/images/projects/ecommerce-dashboard.png" width="100%">
 
 Personal Portfolio
 
@@ -142,9 +148,9 @@ Modern Design
 
 <p align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=atlassandx90&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=atlassandx90&show_icons=true&theme=tokyonight"/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atlassandx90&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atlassandx90&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -174,7 +180,7 @@ Modern Design
 
 <a href="mailto:aroy96996@gmail.com">
 
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 
 </a>
 
