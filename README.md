@@ -1,103 +1,199 @@
-<h1 align="center">Hi , I'm Abhijeet Roy</h1>
-<h3 align="center"> Data Analyst | Tech Enthusiast </h3>
+<!-- ===================================================== -->
+<!--                 HERO BANNER                           -->
+<!-- ===================================================== -->
+
 <p align="center">
-  <img src="https://cdn.prod.website-files.com/667460ccc43a88651a3236c3/66cd00773b43b2e53bfc4549_60d35967a853a1b14851703b_All%2520the%2520data%2520(1).gif" />
+  <img src="YOUR_GITHUB_BANNER_LINK" width="100%" alt="Abhijeet Roy Banner"/>
+</p>
+
+<h1 align="center">Hi 👋, I'm Abhijeet Roy</h1>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/atlassandx90/portfolio/main/assets/banner.png" width="100%">
 </p>
 
 ---
 
--  **Current Role**: Data Analyst  
--  **Goal**: Become a **Data Scientist**
--  **Currently Learning**: Advanced ML, Azure & Big Data Tools
--  **Ask me about**: Data Cleaning, Dashboards, SQL Queries, Python Scripts
--  **Tech I work with**: Python, SQL, Excel, Power BI, Tableau, ML
--  **Cloud**: AWS & Azure
--  **BI Tools**: Power BI, Tableau, Google Sheets
+# About Me
+
+<img align="right" width="340" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
+
+### 👨‍💻 Data Analyst
+
+📍 India
+
+🎯 Open to Data Analyst Opportunities
+
+💡 Passionate about solving business problems using data.
+
+📈 Interested in Analytics, Dashboarding & Business Intelligence.
+
+🚀 Building real-world analytics projects with SQL, Python, Power BI & Tableau.
 
 ---
 
-###  Tools & Technologies
+## Tech Stack
 
 <p align="center">
-  <!-- Core Languages -->
-  <img src="https://skillicons.dev/icons?i=python,sql" />
+
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,aws,azure"/>
+
 </p>
 
 <p align="center">
-  <!-- Cloud & DevOps -->
-  <img src="https://skillicons.dev/icons?i=aws,azure,github,git,vscode," />
-</p>
 
-<p align="center">
-  <!-- BI & Data Tools -->
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/MS%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Colab-faac02?style=for-the-badge&logo=googlecolab&logoColor=white" />
-</p>
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
----
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
 
-###  GitHub Analytics
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atlassandx90&show_icons=true&theme=tokyonight" />
-  <br/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
 
- ###  GitHub Streak
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
 
- <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atlassandx90&theme=tokyonight" />
 </p>
 
 ---
 
-###  GitHub Trophies
+# Featured Projects
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+### 🛒 Walmart Sales Analysis
+
+✔ Python
+
+✔ SQL
+
+✔ Power BI
+
+✔ Tableau
+
+Retail Sales Analytics Dashboard
+
+<a href="https://github.com/atlassandx90/Walmart-Sales-Analysis">Live Demo →</a>
+
+</td>
+
+<td width="50%">
+
+### 🛍 Ecommerce Analytics
+
+✔ Python
+
+✔ SQL
+
+✔ Power BI
+
+Customer Segmentation & KPI Dashboard
+
+<a href="https://github.com/atlassandx90/E-Commerce-Customer-Sales-Insights">Live Demo →</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 💳 Credit Card Analytics
+
+✔ Python
+
+✔ SQL
+
+✔ Power BI
+
+Customer Behaviour Analysis
+
+<a href="https://github.com/atlassandx90/Credit-Card-Customer-Analytics">Live Demo →</a>
+
+</td>
+
+<td width="50%">
+
+### 🌐 Portfolio Website
+
+Personal Portfolio
+
+Dark UI
+
+Responsive
+
+Modern Design
+
+<a href="https://github.com/atlassandx90/portfolio">Source Code →</a>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# GitHub Statistics
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=atlassandx90&theme=tokyonight&margin-w=10&no-frame=true" />
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=atlassandx90&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atlassandx90&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="70%" src="https://streak-stats.demolab.com?user=atlassandx90&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-###  Connect with Me
+# Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/abhijeetroy9" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/itsabhi.jeet" target="_blank">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
+
+<a href="https://abhijeetroy.netlify.app">
+
+<img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge"/>
+
+</a>
+
+<a href="https://linkedin.com/in/abhijeetroy9">
+
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+
+</a>
+
+<a href="mailto:aroy96996@gmail.com">
+
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+
+</a>
+
 </p>
 
 ---
 
-###  My Kaggle & HackerRank Profile
+# Quote
 
 <p align="center">
-  <a href="https://www.kaggle.com/pikachu9999" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge"/>
-  </a>
-  <a href="https://hackerrank.com/aroy96996" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Badge" />
-  </a>
-</p>
 
-<p align="center">
-   I participate in Kaggle competitions, work on datasets, and share notebooks to grow my data science skills.
-     And I also solve problems in Python, SQL, and Algorithms to sharpen my coding and data skills in HackerRank.
+> **Data tells a story. I build the dashboards that help businesses understand it.**
+
 </p>
 
 ---
 
-###  Fun Fact
-
-> “In God we trust, all others must bring data.” – W. Edwards Deming
-
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=atlassandx90&color=03a379&style=plastic" alt="Profile views" />
-</p>
 
+<img src="https://komarev.com/ghpvc/?username=atlassandx90&label=Profile+Views&color=8B5CF6&style=flat"/>
+
+</p>
