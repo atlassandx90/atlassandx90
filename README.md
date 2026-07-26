@@ -3,14 +3,12 @@
 <!-- ===================================================== -->
 
 <p align="center">
-  <img src="YOUR_GITHUB_BANNER_LINK" width="100%" alt="Abhijeet Roy Banner"/>
+<img src="https://raw.githubusercontent.com/atlassandx90/portfolio/main/assets/images/banner.png" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Abhijeet Roy</h1>
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/atlassandx90/portfolio/main/assets/banner.png" width="100%">
-</p>
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Data+Analyst;SQL+%7C+Python+%7C+Power+BI+%7C+Tableau;Building+Business+Intelligence+Solutions;Turning+Data+Into+Business+Intelligence" /> </p>
 
 ---
 
@@ -65,6 +63,8 @@
 <td width="50%">
 
 ### 🛒 Walmart Sales Analysis
+
+<img src="assets/images/projects/walmart-sales.png">
 
 ✔ Python
 
