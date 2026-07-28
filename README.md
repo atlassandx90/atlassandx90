@@ -66,13 +66,11 @@
 
 <img src="https://raw.githubusercontent.com/atlassandx90/portfolio/main/assets/images/projects/walmart-dashboard.png" width="100%">
 
-✔ Python
+* Python
 
-✔ SQL
+* SQL
 
-✔ Power BI
-
-✔ Tableau
+* Power BI &  Tableau
 
 Retail Sales Analytics Dashboard
 
@@ -86,11 +84,11 @@ Retail Sales Analytics Dashboard
 
 <img src="https://raw.githubusercontent.com/atlassandx90/portfolio/main/assets/images/projects/ecommerce-dashboard.png" width="100%">
 
-✔ Python
+* Python
 
-✔ SQL
+* SQL
 
-✔ Power BI
+* Power BI
 
 Customer Segmentation & KPI Dashboard
 
@@ -108,11 +106,11 @@ Customer Segmentation & KPI Dashboard
 
 <img src="https://raw.githubusercontent.com/atlassandx90/portfolio/main/assets/images/projects/credit-card-dashboard.png">
 
-✔ Python
+* Python
 
-✔ SQL
+* SQL
 
-✔ Power BI
+* Power BI
 
 Customer Behaviour Analysis
 
