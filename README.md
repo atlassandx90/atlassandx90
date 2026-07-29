@@ -16,6 +16,16 @@
 
 <img align="right" width="340" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
 
+## 🎯 Current Focus
+
+• Building end-to-end Data Analytics projects
+
+• Preparing for Data Analyst roles
+
+• Learning Advanced SQL & Power BI
+
+• Exploring Azure Data Services
+
 ### 👨‍💻 Data Analyst
 
 📍 India
