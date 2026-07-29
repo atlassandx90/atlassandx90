@@ -56,106 +56,97 @@
 
 # Featured Projects
 
-<table>
-
-<tr>
-
-<td width="50%">
-
-### 🛒 Walmart Sales Analysis
-
-<img src="https://raw.githubusercontent.com/atlassandx90/portfolio/main/assets/images/projects/walmart-dashboard.png" width="100%">
-
-* Python
-
-* SQL
-
-* Power BI &  Tableau
-
-Retail Sales Analytics Dashboard
-
-<a href="https://github.com/atlassandx90/Walmart-Sales-Analysis">Live Demo →</a>
-
-</td>
-
-<td width="50%">
-
-### 🛍 Ecommerce Analytics
-
-<img src="https://raw.githubusercontent.com/atlassandx90/portfolio/main/assets/images/projects/ecommerce-dashboard.png" width="100%">
-
-* Python
-
-* SQL
-
-* Power BI
-
-Customer Segmentation & KPI Dashboard
-
-<a href="https://github.com/atlassandx90/E-Commerce-Customer-Sales-Insights">Live Demo →</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-### 💳 Credit Card Analytics
-
-<img src="https://raw.githubusercontent.com/atlassandx90/portfolio/main/assets/images/projects/credit-card-dashboard.png">
-
-* Python
-
-* SQL
-
-* Power BI
-
-Customer Behaviour Analysis
-
-<a href="https://github.com/atlassandx90/E-Commerce-Customer-Sales-Insights">Live Demo →</a>
-
-</td>
-
-<td width="50%">
-
-### 🌐 Portfolio Website
-
-<img src="https://raw.githubusercontent.com/atlassandx90/portfolio/main/assets/images/projects/ecommerce-dashboard.png" width="100%">
-
-Personal Portfolio
-
-Dark UI
-
-Responsive
-
-Modern Design
-
-<a href="https://github.com/atlassandx90/portfolio">Source Code →</a>
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-# GitHub Statistics
+## Walmart Sales Analysis
 
 <p align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=atlassandx90&show_icons=true&theme=tokyonight"/>
+<img src="https://raw.githubusercontent.com/atlassandx90/portfolio/main/assets/images/projects/walmart-dashboard.png" width="60%">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atlassandx90&layout=compact&theme=tokyonight"/>
+### Retail Sales Analytics Dashboard built using Python, SQL, Power BI & Tableau.
+
+**Tech Stack**
+
+- Python
+- SQL
+- Power BI
+- Tableau
+
+**Source Code:**  
+https://github.com/atlassandx90/Walmart-Sales-Analysis
+
+---
+
+## Ecommerce Analytics
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/atlassandx90/portfolio/main/assets/images/projects/ecommerce-dashboard.png" width="60%">
+
+### Customer Segmentation & KPI Dashboard.
+
+**Tech Stack**
+
+- Python
+- SQL
+- Power BI
+
+**Source Code:**  
+https://github.com/atlassandx90/E-Commerce-Customer-Sales-Insights
+
+---
+
+## Credit Card Customer Analytics
+<p align="center">
+<img src="https://raw.githubusercontent.com/atlassandx90/portfolio/main/assets/images/projects/credit-card-dashboard.png" width="60%">
+
+### Customer Behaviour & Attrition Analysis Dashboard.
+
+**Tech Stack**
+
+- Python
+- SQL
+- Power BI
+
+**Source Code:**  
+https://github.com/atlassandx90/Credit-Card-Customer-Analytics
+
+---
+
+## Personal Portfolio
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/atlassandx90/portfolio/main/assets/images/Screenshot (3886).png" width="70%">
+
+### Modern responsive portfolio website.
+
+**Highlights**
+
+- React
+- Tailwind CSS
+- Responsive Design
+- Dark Theme
+- Resume Download
+
+**Live Demo:**  
+https://abhijeetroy.netlify.app
+
+**Source Code:**  
+https://github.com/atlassandx90/portfolio
+
+---
+
+
+# GitHub Statistics
 
 </p>
 
 <p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atlassandx90&theme=tokyonight">
+</p>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=atlassandx90&theme=tokyonight&hide_border=true"/>
-
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=atlassandx90&theme=tokyonight">
 </p>
 
 ---
@@ -188,11 +179,9 @@ Modern Design
 
 # Quote
 
-<p align="center">
-
-> **Data tells a story. I build the dashboards that help businesses understand it.**
-
-</p>
+<h3 align="center">
+Data tells a story. I build the dashboards that help businesses understand it.
+</h3>
 
 ---
 
